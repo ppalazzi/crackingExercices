@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/array-strings/array-strings.iml" filepath="$PROJECT_DIR$/array-strings/array-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crackingExercices.iml" filepath="$PROJECT_DIR$/.idea/crackingExercices.iml" />
+    </modules>
+  </component>
+</project>
